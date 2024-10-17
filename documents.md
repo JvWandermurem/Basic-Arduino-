@@ -29,8 +29,14 @@ Abaixo há um print da tela mostrando o código no IDE arduino
 Video demonstrativo do funcionamento da placa arduino, será necessário o download para visualisação do vídeo.
 
 <div align="center">
-<sub><a name="f"></a>Vídeo 1- gif demonstrativo</sub>
-<video src="../Basic-Arduino-\Assets\gif arduino.mp4" width = 80%> </video></br>
-<sup>Fonte: Material produzido pelos autores (2024)</sup>
+    <video width="560" height="315" controls>
+        <source src="Basic-Arduino-\Assets\gif arduino.mp4" type="video/mp4">
+    </video>
 </div>
-<p>
+
+<div align="center">
+  <a href="Basic-Arduino-\Assets\gif arduino.mp4" download>
+    Clique aqui para baixar o vídeo
+  </a><br>
+</div>
+
