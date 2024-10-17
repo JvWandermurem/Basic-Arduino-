@@ -34,9 +34,4 @@ Video demonstrativo do funcionamento da placa arduino, será necessário o downl
     </video>
 </div>
 
-<div align="center">
-  <a src="https://github.com/JvWandermurem/Basic-Arduino-/blob/main/Assets/gif%20arduino.mp4" download>
-    Clique aqui para baixar o vídeo
-  </a><br>
-</div>
-
+[Assista ao vídeo](../Basic-Arduino-/Assets/gif%20arduino.mp4)
