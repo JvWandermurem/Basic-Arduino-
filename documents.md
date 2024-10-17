@@ -26,7 +26,7 @@ Abaixo há um print da tela mostrando o código no IDE arduino
 </div>
 <p>
 
-Video demonstrativo do funcionamento da placa arduino
+Video demonstrativo do funcionamento da placa arduino, será necessário o download para visualisação do vídeo.
 
 <div align="center">
 <sub><a name="f"></a>Vídeo 1- video demonstrativo</sub>
