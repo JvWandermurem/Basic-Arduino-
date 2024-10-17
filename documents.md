@@ -35,7 +35,7 @@ Video demonstrativo do funcionamento da placa arduino, será necessário o downl
 </div>
 
 <div align="center">
-  <a href="..\Assets\gif arduino.mp4">
+  <a href="assets/Assets\gif arduino.mp4" download>
     Clique aqui para baixar o vídeo
   </a><br>
 </div>
