@@ -33,4 +33,12 @@ Video demonstrativo do funcionamento da placa arduino, será necessário o downl
     Clique aqui para baixar o vídeo
   </a><br>
 </div>
+
+Abaixo há um print da tela mostrando o sistema em funcionamento
+<div align="center">
+<sub><a name="f"></a>Figura 1- Codigo</sub>
+<img src="../Basic-Arduino-/Assets/telaArduino.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+<p>
   
