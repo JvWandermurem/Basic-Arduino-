@@ -36,8 +36,8 @@ Video demonstrativo do funcionamento da placa arduino, será necessário o downl
 
 Abaixo há um print da tela mostrando o sistema em funcionamento
 <div align="center">
-<sub><a name="f"></a>Figura 1- Codigo</sub>
-<img src="../Assets/telaArduino.png" width="100%">
+<sub><a name="f"></a>Figura 2- arduino</sub>
+<img src="\Assets\telaArduino.png" width="100%">
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 <p>
